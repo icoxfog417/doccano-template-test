@@ -3,7 +3,7 @@ name: "\U000023F3 Installation Problem"
 about: Do you have problems installing doccano, and none of the suggestions in the docs and other issues helped?
 ---
 
-<!-- Before submitting an issue, make sure to check the docs and closed issues to see if any of the solutions work for you. Installation problems can often be related to Python environment issues and problems with compilation. -->
+<!-- Before submitting an issue, make sure to check the docs and closed issues and FAQ to see if any of the solutions work for you. https://github.com/chakki-works/doccano/wiki/Frequently-Asked-Questions -->
 
 ## How to reproduce the problem
 <!-- Include the details of how the problem occurred. Which option did you choose to install doccano? Did you come across an error? What else did you try? -->
@@ -16,4 +16,5 @@ about: Do you have problems installing doccano, and none of the suggestions in t
 <!-- Include details of your environment.-->
 * Operating System:
 * Python Version Used:
-* Environment Information:
+* When you install doccano:
+* How did you install doccano (Heroku button etc):
