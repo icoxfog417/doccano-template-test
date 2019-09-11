@@ -1,5 +1,5 @@
 ---
-name: ":speech_balloon:"
+name: "\U0001F4AC Question"
 about: For the question to confirm suspiciously behaviors or feature usage. Please use StackOverflow if your question is general usage or help with your environment
 
 ---
